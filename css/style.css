@@ -45,3 +45,19 @@ span > a{
 main{
     background-color: #F8FAFF;
 }
+/* HERO */
+.hero{
+background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.3)),  url(../img/codigo.jpg);
+    background-size: 100%;
+    background-position: center;
+    padding: 5%;
+}
+/* H2 del HERO */
+.hero h2{
+    color: #F9FFFF;
+    padding: 15px 0px;
+    margin: 0px 475px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
